@@ -2,7 +2,7 @@
 💻 I'm currently working on various web development projects.
 🌱 I’m constantly learning and exploring new technologies and frameworks.
 💬 Ask me about HTML, JavaScript and CSS.
-📫 How to reach me: your.email@example.com
+📫 How to reach me: msadiknur@gmail.com
 🌍 I'm based in [London,UK].
 <!--
 **SadikMohamud/SadikMohamud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
