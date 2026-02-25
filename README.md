@@ -1,33 +1,109 @@
-# Sadik Mohamud
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Sadik+Mohamud+%F0%9F%91%8B;Frontend+Developer+%E2%86%92+Full-Stack+(Django);Building+Modern+Web+Applications+in+London+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+</p>
 
-## About Me
-Hello! I'm Sadik, a passionate web developer based in London, UK. I specialize in creating dynamic web applications and am constantly expanding my knowledge in modern web technologies.
+# 👋 Hi, I'm Sadik Mohamud
 
-- 🚀 Currently focused on web development projects
-- 💻 Building expertise in frontend technologies
-- 🌱 Learning and growing in full-stack development
-- 📍 Based in London, United Kingdom
-- 📫 Contact: [msadiknur@gmail.com](mailto:msadiknur@gmail.com)
+🚀 **Web Developer | Frontend → Full-Stack (Django)**  
+📍 **London, United Kingdom**
 
-## Tech Stack
+I build **clean, responsive, and scalable web applications** with a strong focus on usability, performance, and maintainable code.  
+Currently transitioning into **full-stack development**, combining modern frontend practices with backend systems using **Django** and **PostgreSQL**.
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎓 Certification
+<p>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109693885" width="90"/>
+</p>
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Code Institute – Full Stack Software Developer (Mar 2024)**
+---
 
-## Professional Focus
-- Frontend Web Development
-- Responsive Design
-- Cross-browser Compatibility
-- Version Control
-- Modern Web Technologies
+## 🧠 Tech Stack
 
-## Current Learning Journey
-I'm on a path to becoming a full-stack developer, currently strengthening my frontend skills while exploring backend technologies. My development process includes utilizing design tools like Figma for creating seamless user experiences.
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
 
-## Let's Connect
-I'm always open to collaborating on interesting web development projects or discussing anything related to frontend technologies. Feel free to reach out via email!
+HTML5        ████████████████████ 100%
+CSS3         ████████████████████ 100%
+JavaScript   ████████████████░░░░ 80%
+
+
+⚙️ Backend, Databases & Deployment
+
+Python       ████████████████░░░░ 80%
+Django       ██████████████░░░░░ 70%
+PostgreSQL   ██████████████░░░░░ 70%
+Git          █████████████████░░ 85%
+Heroku       █████████████░░░░░░ 65%
+
+## 🗺️ Learning Roadmap Timeline
+
+### 🎓 Bootcamp Milestone — *March 6*
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+</p>
+
+- Completing **Full-Stack Software Developer Bootcamp** (Code Institute)  
+- Built multiple **full-stack projects** using Django & PostgreSQL  
+- Applied frontend fundamentals with real backend integrations  
+- Gained experience in **deployment, testing, and version control**
+
+---
+
+### ✅ Now — *Core Strengthening*
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+</p>
+
+- HTML & CSS — semantic structure, layouts, responsiveness  
+- JavaScript — DOM, async patterns, APIs, modern syntax  
+- Git — branching, PR workflows, clean commit history  
+
+---
+
+### 🚧 Next — *Full-Stack Consolidation*
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+</p>
+
+- Strengthen Django architecture & best practices  
+- Build production-ready CRUD & auth systems  
+- Improve database modeling and query performance  
+
+---
+
+### 🎯 Then — *Production & Real-World Skills*
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30"/>
+</p>
+
+- REST APIs — Django REST Framework  
+- Authentication — JWT, permissions, security fundamentals  
+- Deployment — Heroku, environment configs  
+- Testing — pytest & Django test suite  
+
+---
+
+### 🚀 Later — *Advanced Level-Up*
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30"/>
+</p>
+
+- Performance optimization & caching  
+- Background tasks — Celery + Redis  
+- Docker & CI/CD pipelines  
+- Open-source contributions  
+
+---
