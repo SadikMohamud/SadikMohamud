@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Sadik+Mohamud+%F0%9F%91%8B;Frontend+Developer+%E2%86%92+Full-Stack+(Django);Building+Modern+Web+Applications+in+London+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Sadik+Mohamud+%F0%9F%91%8B;Frontend+Developer+%E2%86%92+Full-Stack+(Django);Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Sadik Mohamud
@@ -16,7 +16,7 @@ Currently transitioning into **full-stack development**, combining modern fronte
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109693885" width="90"/>
 </p>
 
-**Code Institute – Full Stack Software Developer (Mar 2024)**
+**Code Institute – Full Stack Software Developer (Mar 2026)**
 ---
 
 ## 🧠 Tech Stack
