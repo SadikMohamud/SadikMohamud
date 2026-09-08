@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sadik Mohamud
 
-⚡ **AI-Augmented Systems Engineer | Full-Stack (Django & Modern Web)**  
+⚡ **AI-Augmented Software Engineer | Full-Stack (Django & Modern Web)**  
 📍 **London, United Kingdom**
 
 I architect robust, scalable software systems by pairing core engineering fundamentals with agentic workflows, protocol integrations, and intelligent automation. Focused on building secure, maintainable full-stack applications with **Django**, **PostgreSQL**, and modern frontend architectures.
