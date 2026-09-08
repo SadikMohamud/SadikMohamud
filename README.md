@@ -1,123 +1,42 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Sadik+Mohamud+%F0%9F%91%8B;Frontend+Developer+%E2%86%92+Full-Stack+(Django);Building+Modern+Web+Applications" alt="Typing SVG" />
-</p>
-
 # 👋 Hi, I'm Sadik Mohamud
 
-🚀 **Web Developer | Frontend → Full-Stack (Django)**  
+⚡ **AI-Augmented Systems Engineer | Full-Stack (Django & Modern Web)**  
 📍 **London, United Kingdom**
 
-I build **clean, responsive, and scalable web applications** with a strong focus on usability, performance, and maintainable code.  
-Currently transitioning into **full-stack development**, combining modern frontend practices with backend systems using **Django** and **PostgreSQL**.
+I architect robust, scalable software systems by pairing core engineering fundamentals with agentic workflows, protocol integrations, and intelligent automation. Focused on building secure, maintainable full-stack applications with **Django**, **PostgreSQL**, and modern frontend architectures.
+
+---
+
+### 🛠️ Production Systems & Backend Architecture
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="32" alt="Heroku" />
+</p>
+
+* **API Architecture & Security:** RESTful API design using Django REST Framework, stateless JWT authentication, role-based access control, and web security fundamentals.
+* **Code Reliability & QA:** Unit and integration test suites implemented with `pytest` and native Django testing harnesses.
+* **Production Deployment:** Managed cloud deployment pipelines (Heroku), secret hygiene, and environment configuration management.
+
+---
+
+### ⚡ Distributed Systems & Scaling
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" alt="Redis" />
+</p>
+
+* **Asynchronous Processing & Caching:** Decoupled workload execution using Celery task queues paired with Redis in-memory storage.
+* **Containerization & CI/CD:** Reproducible runtime environments with Docker and automated build/deploy workflows.
+* **System Optimization:** Database query optimization, cache-aside strategies, and performance benchmarking for high-throughput services.
+
+---
 
 ### 🎓 Certification
-<p>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109693885" width="90"/>
-</p>
 
-**Code Institute – Full Stack Software Developer (Mar 2026)**
----
+<a href="https://www.credential.net/109693885" target="_blank">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109693885" width="90" alt="Accredible Certification Badge" />
+</a>
 
-## 🧠 Tech Stack
-
-### 🌐 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-HTML5        ████████████████████ 100%
-
-CSS3         ████████████████████ 100%
-
-JavaScript   ████████████████░░░░ 80%
-
-
-⚙️ Backend, Databases & Deployment
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" alt="Heroku"/>
-</p>
-
-Python       ████████████████░░░░ 80%
-
-Django       ██████████████░░░░░ 70%
-
-PostgreSQL   ██████████████░░░░░ 70%
-
-Git          █████████████████░░ 85%
-
-Heroku       █████████████░░░░░░ 65%
-
-
-## 🗺️ Learning Roadmap Timeline
-
-### 🎓 Bootcamp Milestone — *March 6*
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
-</p>
-
-- Completing **Full-Stack Software Developer Bootcamp** (Code Institute)  
-- Built multiple **full-stack projects** using Django & PostgreSQL  
-- Applied frontend fundamentals with real backend integrations  
-- Gained experience in **deployment, testing, and version control**
-
----
-
-### ✅ Now — *Core Strengthening*
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-</p>
-
-- HTML & CSS — semantic structure, layouts, responsiveness  
-- JavaScript — DOM, async patterns, APIs, modern syntax  
-- Git — branching, PR workflows, clean commit history  
-
----
-
-### 🚧 Next — *Full-Stack Consolidation*
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
-</p>
-
-- Strengthen Django architecture & best practices  
-- Build production-ready CRUD & auth systems  
-- Improve database modeling and query performance  
-
----
-
-### 🎯 Then — *Production & Real-World Skills*
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30"/>
-</p>
-
-- REST APIs — Django REST Framework  
-- Authentication — JWT, permissions, security fundamentals  
-- Deployment — Heroku, environment configs  
-- Testing — pytest & Django test suite  
-
----
-
-### 🚀 Later — *Advanced Level-Up*
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30"/>
-</p>
-
-- Performance optimization & caching  
-- Background tasks — Celery + Redis  
-- Docker & CI/CD pipelines  
-- Open-source contributions  
-
----
